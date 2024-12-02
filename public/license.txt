@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cricket Stadium
+* source:	https://sketchfab.com/3d-models/cricket-stadium-8979c825c7a64c328a2f72ada2d238ba
+* author:	TheDesigner (https://sketchfab.com/Coolhitz)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cricket Stadium" (https://sketchfab.com/3d-models/cricket-stadium-8979c825c7a64c328a2f72ada2d238ba) by TheDesigner (https://sketchfab.com/Coolhitz) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

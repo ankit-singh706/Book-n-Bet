@@ -1,0 +1,15 @@
+.wikitable{
+    font-family: sans-serif;
+direction: ltr;
+line-height: 1.6;
+font-size: 100%;
+background-color: black;
+color: white;
+margin: 1em 0;
+border: 1px solid white;
+border-collapse: collapse;
+}
+
+th,td,tr{
+    border: 1px solid white;
+}

@@ -1,0 +1,42 @@
+html{
+  scroll-behavior: smooth;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body{
+  /* background-color: #040714; */
+  background-color: #040714;
+  /* color: white; */
+  font-family: Avenir-Roman, sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+canvas{
+  height: 100vh !important;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+}
+
+@media only screen and (min-width : 768px){
+  body{
+    font-size: 16px;
+  }
+}
+@media only screen and (min-width: 480px) and (max-width:768px){
+  body{
+    font-size: 15px;
+  }
+}
+
+@media only screen and (max-width:479px){
+  body{
+    font-size: 14px;
+  }
+}
